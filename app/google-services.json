@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42450934196",
+    "project_id": "chatapp-7db0e",
+    "storage_bucket": "chatapp-7db0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42450934196:android:c01e9b61521dc009b5bae1",
+        "android_client_info": {
+          "package_name": "com.indrashekar.trychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42450934196-uba7s0mjikfmnd6bpsnoogkfinv2qq8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87c5JER0fqYEt8Y6s1zNM6JMDAH0n3_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42450934196-uba7s0mjikfmnd6bpsnoogkfinv2qq8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
